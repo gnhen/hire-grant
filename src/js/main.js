@@ -14,5 +14,5 @@ document.getElementById('portfolio-btn').addEventListener('click', () => {
     }, 100);
 
 
-    window.location.href = 'https://gnh.one';
+    window.location.href = 'https://granthendricks.com';
 });
